@@ -6,21 +6,21 @@
   </a>
 </div>
 
-<img align="center" alt="header gif" src="./src/header-gif.gif">
-
 #
 
 <p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas no SENAI. Gosto bastante da parte de frontend e estou sempre buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar meus conhecimentos para criar soluções inovadoras.</p>
 
 #
 
-<img align="right" alt="study gif" height="190px" src="./src/study.gif">
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <h3 align="left">Contato</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:meduardacardoso.121@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/anaRita004/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=FFF)](https://www.instagram.com/anaRita004/)
+
+
 
 <h3 align="left">Minhas linguagens ~</h3>
 
