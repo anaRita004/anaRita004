@@ -16,11 +16,9 @@
 
 <h3 align="left">Contato</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:meduardacardoso.121@gmail.com)
-[![LinkedIn]()
-[![Instagram](https://www.instagram.com/ana.lmedeiros/profilecard/?igsh=MzY2bnVncDNibXph)
-
-
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:anart.medeiros@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/ana-rita-medeiros-9749092a9/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=FFF)](https://www.instagram.com/ana.lmedeiros/)
 
 <h3 align="left">Minhas linguagens ~</h3>
 
